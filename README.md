@@ -14,11 +14,11 @@ The tutorials will build one specified concept at a time. For the specified conc
 
 After the concept has been defined and implemented, we will make performance visualization where we compare similar alternative operations that the user could potentially make to improve their predictive model
 
-[hiplot](path)
+[hiplot](https://github.com/Erick7451/DL-with-PyTorch/blob/master/hiplot/hiplot.html)
 
 ### Methodology
 
-The [Linear Layer]() tutorial is ***strongly*** encouraged to review first as it presents fundamental DL concepts that will be assumed for the rest of tutorials and also presents standard workflow into how we will train and compare different models.
+The [Linear Layer](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/Linear%20Layer.ipynb) tutorial is ***strongly*** encouraged to review first as it presents fundamental DL concepts that will be assumed for the rest of tutorials and also presents standard workflow into how we will train and compare different models.
 
 ## Operations
 
@@ -31,16 +31,19 @@ The following are concepts that have been manually implemented on PyTorch
 
 ##### Linear Operations
 
-* [Linear layer](C:\Users\erick\Documents\University\UH-D\Spring 2020\ML\git_repo\DL-with-PyTorch\Jupyter_Notebooks\Linear Layer.ipynb)
+* [Linear layer](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/Linear%20Layer.ipynb)
 * Convolutional Layer
 * Spectral Convolution
 
 ##### Activation Methods
 
-* [ReLU](C:\Users\erick\Documents\University\UH-D\Spring 2020\ML\git_repo\DL-with-PyTorch\Jupyter_Notebooks\ReLU.ipynb)
+* [ReLU](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/ReLU.ipynb)
 
 ##### Analyzing Distinct Data Domains
 
 * Spatial data
 * Non-Euclidean data
+
+##### Architectures
+* [Logistic Regression](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/logistic_regression.ipynb)
 
