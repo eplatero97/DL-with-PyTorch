@@ -8,7 +8,7 @@ Hence, this introductory tutorial will teach the user how to implement standard 
 
 ## Framework
 
-The tutorials will build one specified concept at a time. For the specified concept, we will manually implement the operation using PyTorch capabilities, but will sometimes implement other needed operations using PyTorch's inherent capabilities to simplify code. 
+The tutorials will build one or few specific concept at a time. Unless otherwise covered, most of the operations will manually be implemented using PyTorch's capabilities.
 
 ### Visualization
 
@@ -19,30 +19,39 @@ After the concept has been defined and implemented, we will make performance vis
 
 The [Linear Layer](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/Linear%20Layer.ipynb) tutorial is ***strongly*** encouraged to review first as it presents fundamental DL concepts that will be assumed for the rest of tutorials and also presents standard workflow into how we will train and compare different models.
 
-## Operations
+## Tutorials
 
-The following are concepts that have been manually implemented on PyTorch
+The following are operations/concepts that have been explored
 
-##### Gradient Descent
+#### Linear Operations
 
-* Stochastic Gradient Descent
-* Newton's Method
+**[Linear layer](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/Linear%20Layer.ipynb):**
 
-##### Linear Operations
+* Linear Layer
+* Cross-Entropy-Loss
 
-* [Linear layer](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/Linear%20Layer.ipynb)
-* Convolutional Layer
-* Spectral Convolution
+---
 
-##### Activation Methods
+#### Activation Functions
 
-* [ReLU](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/ReLU.ipynb)
+**[ReLU](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/ReLU.ipynb):**
 
-##### Analyzing Distinct Data Domains
+* ReLU
+* Tanh
+* Leaky ReLU
 
-* Spatial data
-* Non-Euclidean data
+---
 
-##### Architectures
-* [Logistic Regression](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/logistic_regression.ipynb)
+#### Architectures
+
+**[Logistic Regression](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/logistic_regression.ipynb)**
+
+* Binary-Cross-Entropy
+* Sigmoid
+
+
+
+
+
+
 
