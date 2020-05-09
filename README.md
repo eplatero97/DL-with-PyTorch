@@ -14,6 +14,7 @@ The tutorials will build one or few specific concept at a time. Unless otherwise
 
 After the concept has been defined and implemented, we will make performance visualization where we compare similar alternative operations that the user could potentially make to improve their predictive model
 
+![hiplot.PNG](https://github.com/Erick7451/DL-with-PyTorch/blob/master/img/hiplot.PNG?raw=true)
 
 ### Methodology
 
