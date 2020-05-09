@@ -14,7 +14,6 @@ The tutorials will build one specified concept at a time. For the specified conc
 
 After the concept has been defined and implemented, we will make performance visualization where we compare similar alternative operations that the user could potentially make to improve their predictive model
 
-<img src="https://raw.githubusercontent.com/facebookresearch/hiplot/master/hiplot/static/logo.png" alt="GitHub - facebookresearch/hiplot: HiPlot makes understanding high ..." style="zoom:20%;" />
 
 ### Methodology
 
