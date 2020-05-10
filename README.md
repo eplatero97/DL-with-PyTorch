@@ -18,7 +18,7 @@ After the concept has been defined and implemented, we will make performance vis
 
 ### Methodology
 
-The [Linear Layer](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/Linear%20Layer.ipynb) tutorial is ***strongly*** encouraged to review first as it presents fundamental DL concepts that will be assumed for the rest of tutorials and also presents standard workflow into how we will train and compare different models.
+The [Linear Layer](https://nbviewer.jupyter.org/github/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/Linear%20Layer.ipynb) tutorial is ***strongly*** encouraged to review first as it presents fundamental DL concepts that will be assumed for the rest of tutorials and also presents standard workflow into how we will train and compare different models.
 
 ## Tutorials
 
@@ -26,7 +26,7 @@ The following are operations/concepts that have been explored
 
 #### Linear Operations
 
-**[Linear layer](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/Linear%20Layer.ipynb):**
+**[Linear layer](https://nbviewer.jupyter.org/github/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/Linear%20Layer.ipynb):**
 
 * Linear Layer
 * Cross-Entropy-Loss
@@ -35,7 +35,7 @@ The following are operations/concepts that have been explored
 
 #### Activation Functions
 
-**[ReLU](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/ReLU.ipynb):**
+**[ReLU](https://nbviewer.jupyter.org/github/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/ReLU.ipynb):**
 
 * ReLU
 * Tanh
@@ -45,7 +45,7 @@ The following are operations/concepts that have been explored
 
 #### Architectures
 
-**[Logistic Regression](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/logistic_regression.ipynb)**
+**[Logistic Regression](https://nbviewer.jupyter.org/github/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/logistic_regression.ipynb)**
 
 * Binary-Cross-Entropy
 * Sigmoid
