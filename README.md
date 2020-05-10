@@ -8,7 +8,7 @@ Hence, this introductory tutorial will teach the user how to implement standard 
 
 ## Framework
 
-The tutorials will build one or few specific concept at a time. Unless otherwise covered, most of the operations will manually be implemented using PyTorch's capabilities.
+The tutorials will build one or few specific concept at a time. Unless otherwise already covered, most of the operations in each tutorial will manually be implemented using PyTorch's capabilities.
 
 ### Visualization
 
