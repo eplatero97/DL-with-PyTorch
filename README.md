@@ -33,6 +33,14 @@ The following are operations/concepts that have been explored
 
 ---
 
+#### Optimization
+**[Gradient Descent](https://github.com/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/Stochastic%20Gradient%20Descent.ipynb)**
+
+* Gradient Descent
+* Newton's Method
+
+---
+
 #### Activation Functions
 
 **[ReLU](https://nbviewer.jupyter.org/github/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/ReLU.ipynb):**
