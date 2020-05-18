@@ -57,8 +57,11 @@ The following are operations/concepts that have been explored
 
 * Binary-Cross-Entropy
 * Sigmoid
+---
 
-
+#### Convolution
+* [Naive Convolution](https://nbviewer.jupyter.org/github/Erick7451/DL-with-PyTorch/blob/master/Jupyter_Notebooks/Naive%20Convolution.ipynb)
+* Naive Convolution
 
 
 
